@@ -2,6 +2,7 @@
  * CSCI 1913
  * Lab 06
  * Author: Daurie Basham
+ * Notes: remove package name student to build project if necessary
  * */
 package student;
 
